@@ -1,0 +1,13 @@
+.bg2{
+    
+    background-color: rgba(231, 231, 231, 0.822);
+    width: 100%;
+    padding: 100px;
+    border-radius: 5px
+}
+
+.form-group{
+    margin-top: 20px
+}
+
+@import url("https://fonts.googleapis.com/css?family=IBM Plex Sans Thai");
